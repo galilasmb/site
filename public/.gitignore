@@ -1,0 +1,6 @@
+# IDEs
+.idea/
+
+# Hugo
+go.sum
+.hugo_build.lock
